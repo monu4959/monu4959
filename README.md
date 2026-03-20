@@ -1,11 +1,12 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolla.ro@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Boston, MA](https://img.shields.io/badge/Boston,_MA-6B46C1?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-reddy-kolla)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monu4959@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://monu4959.github.io/Personal-Portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6B46C1&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=monu4959&style=flat-square&color=6B46C1&label=visitors)
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydGZjbnIydmZvcjh2eHM1bGlwZzE0NWFjcmFsMzRyYmY1NGducHQ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" width="220" />
 
 ---
 
@@ -16,7 +17,7 @@
 ```python
 rohan = {
     "name"        : "Rohan Kolla",
-    "alias"       : "rohan-kolla",
+    "alias"       : "monu4959",
     "class"       : "AI/ML Engineer",
     "superpower"  : "Ship-Ship no Mi",  # ships end-to-end AI systems to prod
 
@@ -88,20 +89,6 @@ rohan = {
 | **[Neural Architecture Search](#)** | ANN design via evolutionary algorithms — PSO, Differential Evolution, Genetic Algorithms | Python · PyTorch | 25% accuracy gain · 40% fewer parameters |
 | **[Wearable Stress Detector](#)** | Multimodal physiological signal analysis (ECG, EDA, respiration) for mental state classification | Python · scikit-learn · Signal Processing | Time-series + permutation entropy features |
 | **[Malware Analysis — CNN-LSTM](#)** | API call sequence behavioural analysis for malware classification | CNN-LSTM · KNN · Decision Trees | 99.4% (ML) · 98.91% (DL) accuracy |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6B46C1&icon_color=FF6B35)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6B46C1)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6B46C1&fire=FF6B35&currStreakLabel=6B46C1)
-
-</div>
 
 ---
 
