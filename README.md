@@ -4,46 +4,22 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monu4959@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://monu4959.github.io/Personal-Portfolio/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=monu4959&style=flat-square&color=6B46C1&label=visitors)
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydGZjbnIydmZvcjh2eHM1bGlwZzE0NWFjcmFsMzRyYmY1NGducHQ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" width="220" />
+<img src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" width="160" />
 
 ---
 
 </div>
 
-## 🧠 About Me
+## Hi there 👋
 
-```python
-rohan = {
-    "name"        : "Rohan Kolla",
-    "alias"       : "monu4959",
-    "class"       : "AI/ML Engineer",
-    "superpower"  : "Ship-Ship no Mi",  # ships end-to-end AI systems to prod
+My name is Rohan, and I'm an AI/ML engineer who specializes in building end-to-end intelligent systems — from LLM pipelines and agentic workflows to production-ready deep learning applications.
 
-    "currently": {
-        "studying"    : "MS Data Analytical Engineering @ Northeastern (4.0 GPA)",
-        "building"    : "Agentic AI · RAG pipelines · LLMs · Real-world ML",
-        "co-founded"  : [
-            "KourtWiz  — AI-powered sports court booking & events app",
-            "MyClone   — AI digital twin platform for knowledge workers",
-        ],
-    },
-
-    "philosophy": """
-        I don't build demos.
-        I build systems that reason, retrieve, and generalize.
-        The hard part isn't the model — it's making it reliable in production.
-        Real-world ML means handling edge cases, latency, and scale.
-    """,
-
-    "fun_facts": [
-        "RAG system over 50K+ SEC filings — 91% accuracy on all benchmarks",
-        "CNN that classifies 270K+ protein sequences at 1000+ seqs/minute",
-        "Reduced LLM hallucination rate by 27% across 500+ evaluation tasks",
-    ],
-}
-```
+- 🎓 Pursuing MS in Data Analytical Engineering @ Northeastern University (4.0 GPA)
+- 🤖 Currently building **Agentic AI · RAG pipelines · LLMs · Real-world ML systems**
+- 🚀 Co-founded [KourtWiz](https://github.com/monu4959) — AI-powered sports court booking & events app
+- 🧠 Co-founded [MyClone](https://github.com/monu4959) — AI digital twin platform for knowledge workers
+- 💡 Passionate about **Generative AI, LLMs, Deep Learning, and shipping ML to production**
+- 📫 Reach me at [monu4959@gmail.com](mailto:monu4959@gmail.com)
 
 ---
 
