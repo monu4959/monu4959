@@ -16,8 +16,6 @@ My name is Rohan, and I'm an AI/ML engineer who specializes in building end-to-e
 
 - 🎓 Pursuing MS in Data Analytical Engineering @ Northeastern University (4.0 GPA)
 - 🤖 Currently building **Agentic AI · RAG pipelines · LLMs · Real-world ML systems**
-- 🚀 Co-founded [KourtWiz](https://github.com/monu4959) — AI-powered sports court booking & events app
-- 🧠 Co-founded [MyClone](https://github.com/monu4959) — AI digital twin platform for knowledge workers
 - 💡 Passionate about **Generative AI, LLMs, Deep Learning, and shipping ML to production**
 - 📫 Reach me at [monu4959@gmail.com](mailto:monu4959@gmail.com)
 
@@ -27,31 +25,31 @@ My name is Rohan, and I'm an AI/ML engineer who specializes in building end-to-e
 
 **ML / Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNN_/_RNN_/_Transformers-6B46C1?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0EA5E9?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-10B981?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-555?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-555?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-555?style=flat&logo=scikitlearn&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNN_/_RNN_/_Transformers-444?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-444?style=flat)
+![NLP](https://img.shields.io/badge/NLP-444?style=flat)
 
 **Agentic AI / Generative AI**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6B46C1?style=flat-square)
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-555?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-444?style=flat)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-444?style=flat)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-555?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5-555?style=flat&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-444?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-555?style=flat&logo=mlflow&logoColor=white)
 
 **Infra / Cloud**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(ECS_·_S3_·_EC2)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-555?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(ECS_·_S3_·_EC2)-555?style=flat&logo=amazonaws&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-444?style=flat)
+![Python](https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555?style=flat&logo=mysql&logoColor=white)
 
 ---
 
