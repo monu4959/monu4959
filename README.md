@@ -18,8 +18,7 @@ I build LLM systems end to end: agents, RAG, model distillation, and the evals a
 
 - 💼 **AI/ML Intern @ CREWASIS:** building custom AI agents for global consumer brands and pharmaceutical clients, from problem statement to production
 - 🔬 **Currently:** reinforcement learning (GRPO) on the distilled text-to-SQL model behind HuskySwap
-- 🎯 **Open to:** full-time AI/ML roles starting **April 2027**
-- 📫 **Reach me:** [monu4959@gmail.com](mailto:monu4959@gmail.com)
+- 📫 **Reach me:** [monu4959@gmail.com](mailto:monu4959@gmail.com) or kolla.ro@northeastern.edu(mailto:kolla.ro@northeastern.edu)
 
 ---
 
