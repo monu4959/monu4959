@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Rohan 👋
-
 <img src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" width="160" alt="Hacker pupper typing" />
+
+# Hi, I'm Rohan 👋
 
 **AI/ML Engineer · MS in Data Analytics Engineering @ Northeastern University (4.0 GPA)**
 
