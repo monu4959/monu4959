@@ -2,8 +2,7 @@
 
 # Hi, I'm Rohan 👋
 
-<img align="right" src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" width="150" alt="Hacker pupper typing" />
-
+<img src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" width="160" alt="Hacker pupper typing" />
 
 **AI/ML Engineer · MS in Data Analytics Engineering @ Northeastern University (4.0 GPA)**
 
@@ -17,14 +16,10 @@ I build LLM systems end to end: agents, RAG, model distillation, and the evals a
 
 ---
 
-<img align="right" src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" width="150" alt="Hacker pupper typing" />
-
 - 💼 **AI/ML Intern @ CREWASIS:** building custom AI agents for global consumer brands and pharmaceutical clients, from problem statement to production
 - 🔬 **Currently:** reinforcement learning (GRPO) on the distilled text-to-SQL model behind HuskySwap
 - 🎯 **Open to:** full-time AI/ML roles starting **April 2027**
 - 📫 **Reach me:** [monu4959@gmail.com](mailto:monu4959@gmail.com)
-
-<br clear="right"/>
 
 ---
 
