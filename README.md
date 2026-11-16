@@ -2,6 +2,9 @@
 
 # Hi, I'm Rohan 👋
 
+<img align="right" src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif" width="150" alt="Hacker pupper typing" />
+
+
 **AI/ML Engineer · MS in Data Analytics Engineering @ Northeastern University (4.0 GPA)**
 
 I build LLM systems end to end: agents, RAG, model distillation, and the evals and MLOps around them.
